@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
     array<int, 10>Arr;
-    cout<<"Enter the Array Elements : f ";
+    cout<<"Enter the Array Elements :  ";
     for(int i = 0;i<Arr.size();i++)
     {
         cin>>Arr[i];
