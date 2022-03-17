@@ -9,8 +9,8 @@
 
     m[2] = "anonymous";
     m[18] = "alpha";
-    m[25] = "delta";
-    m[26] = "bravo";
+    m[25] = "bravo";
+    m[26] = "delta";
     m.insert({3,"charlie"});
 
     cout<<"before erase : "<<endl;
