@@ -1,3 +1,4 @@
+//Standerd template library for stack
 #include<iostream>
 #include<stack>
 
