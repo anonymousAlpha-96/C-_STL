@@ -5,14 +5,16 @@
 
  int main()
 {
-    map<int,string>m;
-
+  
+    map<int, int>mp;//example1
+    map<int,string>m; 
+  
     m[2] = "anonymous";
     m[18] = "alpha";
     m[25] = "bravo";
     m[26] = "delta";
     m.insert({3,"charlie"});
-
+  
     cout<<"before erase : "<<endl;
     for(auto i:m)
     {
